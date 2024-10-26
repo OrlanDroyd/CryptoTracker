@@ -1,4 +1,4 @@
-package io.github.orlandroyd.cryptotracker.util
+package io.github.orlandroyd.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 

@@ -3,7 +3,7 @@ package io.github.orlandroyd.cryptotracker.crypto.presentation.models
 import android.icu.text.NumberFormat
 import androidx.annotation.DrawableRes
 import io.github.orlandroyd.cryptotracker.crypto.domain.Coin
-import io.github.orlandroyd.cryptotracker.util.getDrawableIdForCoin
+import io.github.orlandroyd.cryptotracker.core.presentation.util.getDrawableIdForCoin
 import java.util.Locale
 
 data class CoinUi(

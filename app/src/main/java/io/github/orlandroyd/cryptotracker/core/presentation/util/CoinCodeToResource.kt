@@ -1,4 +1,4 @@
-package io.github.orlandroyd.cryptotracker.util
+package io.github.orlandroyd.cryptotracker.core.presentation.util
 
 import io.github.orlandroyd.cryptotracker.R
 
