@@ -1,4 +1,4 @@
-package io.github.orlandroyd.cryptotracker.core.domain.data.networking
+package io.github.orlandroyd.cryptotracker.core.data.networking
 
 import io.ktor.client.HttpClient
 import io.ktor.client.engine.HttpClientEngine
