@@ -44,6 +44,7 @@ class CoinListViewModel(
     }
 
     private fun selectCoin(coinUi: CoinUi) {
+
         _state.update { it.copy(selectedCoin = coinUi) }
 
         viewModelScope.launch {
